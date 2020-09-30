@@ -1,7 +1,7 @@
 from tkinter import*
 from PIL import Image,ImageTk
 import xlwt
-from bs4 import beautifulSoup
+import bs4
 import openpyxl as xl
 import csv
 def enterval():
